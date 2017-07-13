@@ -1,6 +1,3 @@
 This is Africa
-<<<<<<< HEAD
 This is India
-=======
 This is USA
->>>>>>> master
